@@ -4,8 +4,8 @@ import { container, title, slogan } from './styles.css'
 export default function Home (props) {
   return (
     <div className={container}>
-      <p className={title}>{'Duckr'} </p>
-      <p className={slogan}>{'The real time, cloud based, modular, scalable, growth hack, buzzword blah blah'} </p>
+      <p className={title}>{'Rewards'} </p>
+      <p className={slogan}>{'Making your employees look good'} </p>
 
     </div>
   )
